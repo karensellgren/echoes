@@ -74,6 +74,9 @@ body {
     line-height: 1.6;
     display: inline-block;
     vertical-align: middle;
+    word-spacing: -1px;
+    hyphens: auto;
+    text-justify: inter-word;
 
 }
 
